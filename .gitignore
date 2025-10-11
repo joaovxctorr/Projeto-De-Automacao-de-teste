@@ -1,0 +1,24 @@
+# Node
+node_modules/
+package-lock.json
+
+# Cypress
+cypress/screenshots/
+cypress/videos/
+cypress/downloads/
+
+# Arquivos temporários e logs
+*.log
+*.tmp
+*.swp
+
+# Sistema e IDEs
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Ambiente
+.env
+.env.local
+.env.*.local
