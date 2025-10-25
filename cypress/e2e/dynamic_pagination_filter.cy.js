@@ -9,12 +9,6 @@ describe('Tabela Paginada Dinâmica - Practice Expand Testing', () => {
   });
 });
 
-it('1', function() {
-  cy.visit('https://practice.expandtesting.com/dynamic-pagination-table')
-  
-});
 
-it('1', function() {
-  cy.visit('https://practice.expandtesting.com/dynamic-pagination-table')
-  
-});
+
+npm install --save-dev cypress-file-upload
