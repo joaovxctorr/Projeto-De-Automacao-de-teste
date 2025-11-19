@@ -11,4 +11,3 @@ describe('Tabela Paginada Dinâmica - Practice Expand Testing', () => {
 
 
 
-npm install --save-dev cypress-file-upload
